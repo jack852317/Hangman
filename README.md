@@ -10,3 +10,4 @@ when you guesses correct character your chance will not be counted when you give
 Hope you enjoy this game. 
 Any modification in this game would be highly appreciated.
 Hangman Is Best Gameeee Firstt
+Hangman Is Best Gameeee Second
